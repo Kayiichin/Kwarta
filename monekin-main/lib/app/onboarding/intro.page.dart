@@ -25,7 +25,7 @@ class IntroPage extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         Text(
-          'Monekin',
+          'Kwar.ta',
           style: Theme.of(context)
               .textTheme
               .headlineMedium!
